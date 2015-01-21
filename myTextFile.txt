@@ -1,4 +1,5 @@
 I'll start to learn Git. I like it!
 This text is added from  MyBranch1 !
 This text is added on master branch!
+This text is added from branch2 !
 
