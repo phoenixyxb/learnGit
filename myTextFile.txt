@@ -1,2 +1,2 @@
 I'll start to learn Git. I like it!
-
+This text is added from  MyBranch1 !
